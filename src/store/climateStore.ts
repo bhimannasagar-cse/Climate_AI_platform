@@ -1,5 +1,4 @@
-import { create } from 'zustand';
-import { persist } from 'zustand/middleware';  
+import { create } from 'zustand'; 
 export const useClimateStore = create((set: any, get: any) => ({
   currentData: null,
   historicalData: [],
