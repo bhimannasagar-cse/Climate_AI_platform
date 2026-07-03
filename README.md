@@ -31,13 +31,16 @@ An intelligent climate monitoring platform that provides real-time weather data,
 ## 📸 Application Preview
 
 ### Dashboard
-<img width="900" alt="Dashboard" src="YOUR_SCREENSHOT_1_LINK">
+
+![Dashboard](./screenshots/dashboard.png)
 
 ### Climate Analytics
-<img width="900" alt="Climate Analytics" src="YOUR_SCREENSHOT_2_LINK">
+
+![Climate Analytics](./screenshots/climate-analytics.png)
 
 ### Emergency SOS System
-<img width="900" alt="Emergency SOS" src="YOUR_SCREENSHOT_3_LINK">
+
+![Emergency SOS](./screenshots/emergency-sos.png)
 
 ---
 
