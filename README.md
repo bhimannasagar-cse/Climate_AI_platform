@@ -31,13 +31,16 @@ An intelligent climate monitoring platform that provides real-time weather data,
 ## 📸 Application Preview
 
 ### Dashboard
-<img src="https://github.com/user-attachments/assets/your-dashboard-id" width="900">
+<img width="1795" height="865" alt="Screenshot 2026-07-03 233011" src="https://github.com/user-attachments/assets/9e8b5214-1795-4a7d-a39c-8871a934cc07" />
+
 
 ### Climate Analytics
-<img src="https://github.com/user-attachments/assets/your-analytics-id" width="900">
+<img width="1823" height="848" alt="Screenshot 2026-07-03 233047" src="https://github.com/user-attachments/assets/03c4ee7b-302d-459a-ad28-b0939c51bf34" />
+
 
 ### Emergency SOS
-<img src="https://github.com/user-attachments/assets/your-sos-id" width="900">
+<img width="1795" height="842" alt="Screenshot 2026-07-03 233112" src="https://github.com/user-attachments/assets/16f2e655-04f8-4839-8412-721842e15c4c" />
+
 ---
 
 ## 🛠️ Tech Stack
