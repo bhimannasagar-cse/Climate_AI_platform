@@ -32,15 +32,18 @@ An intelligent climate monitoring platform that provides real-time weather data,
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](<img width="1795" height="865" alt="Screenshot 2026-07-03 233011" src="https://github.com/user-attachments/assets/c20c23c0-c0f8-41b4-86d2-9e822050e709" />
+)
 
 ### Climate Analytics
 
-![Climate Analytics](./screenshots/climate-analytics.png)
+![Climate Analytics](<img width="1823" height="848" alt="Screenshot 2026-07-03 233047" src="https://github.com/user-attachments/assets/f6be74bf-b54d-4ded-9582-cb08c2eab719" />
+)
 
 ### Emergency SOS System
 
-![Emergency SOS](./screenshots/emergency-sos.png)
+![Emergency SOS](<img width="1795" height="842" alt="Screenshot 2026-07-03 233112" src="https://github.com/user-attachments/assets/7e44ff7f-ddd8-402e-8040-832171973a20" />
+)
 
 ---
 
