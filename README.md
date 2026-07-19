@@ -114,7 +114,7 @@ Climate_AI_platform/
 
 **Bhimanna Sagar**
 
-GitHub: https://github.com/bhimannasagar-cse
+GitHub: https://github.com/bhimannasagar23
 
 ---
 
